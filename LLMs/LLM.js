@@ -2,7 +2,7 @@ import { GoogleGenAI } from "@google/genai";
 // @google/genai install kr lena terminal me jake, ni toh run ni hoga !
 //package.json me bhi type = "module" update kr lena, ni toh error aayega ki package nahi mila !
 
-const ai = new GoogleGenAI({ apiKey: "AIzaSyCvU53I1CkqsI9FbWCcXYozjX23of_u7h4" });
+const ai = new GoogleGenAI({ apiKey: "YOUR__API__KEY" });
 // ye meri API key hai, tumhe apni API key use karni hai, copy paste mat kr dena !
 
 async function main() {
