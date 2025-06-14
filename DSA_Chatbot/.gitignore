@@ -1,0 +1,26 @@
+# Node modules (don't ever push this)
+node_modules/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Env files (if you ever use them)
+
+
+# Vercel (optional, if you don't want to track CLI deployments)
+.vercel
+
+# Build artifacts (in case you ever generate a build)
+dist/
+build/
+
+# IDEs/editors
+.vscode/
+.idea/
+*.swp
