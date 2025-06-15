@@ -1,8 +1,0 @@
-# Ignore Node.js dependencies folder
-node_modules/
-
-# Ignore the backend .env file which contains secrets
-backend/.env
-
-# Ignore system files
-.DS_Store
